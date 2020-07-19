@@ -7,8 +7,15 @@
     padding: 25px;
 }
 
-.parallax{
+.parallax1{
     background: url('https://upload.cc/i1/2020/07/18/YB0Ohg.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 500px;
+}
+
+.parallax2{
+    background: url('https://upload.cc/i1/2020/07/20/VQtzYe.jpg') no-repeat center;
     background-size: cover;
     background-attachment: fixed;
     height: 500px;
