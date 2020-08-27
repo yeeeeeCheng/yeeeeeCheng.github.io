@@ -47,11 +47,3 @@
 hr {
   background-color: black;
 }
-
-.left_article {
-  grid-area: left;
-}
-
-.right_article {
-  grid-area: right;
-}
