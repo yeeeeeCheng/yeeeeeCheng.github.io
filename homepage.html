@@ -1,48 +1,75 @@
 <!DOCTYPE html>
 <html>
-
 <head>
-  <title>Ürànus</title>
-  <link rel="stylesheet" href="/style/style.css">
-  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+	<meta charset="utf-8"/>
+	<title>xoxo</title>
+	<!-- bootstrap cdn -->
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"/>
+	<!-- font awesome cdn -->
+	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+	<!-- style.css -->
+	<link rel="stylesheet" type="text/css" href="/style/style.css"/>
+	<!-- jquery cdn -->
+	<script type="text/javascript" src="https://code.jquery.com/jquery-3.4.1.js"></script>
 </head>
-
 <body>
-  <div class="container">
-    <!--導航列-->
-    <div class="row">
-      <div class="col-4">
-        <h2>Ürànus</h2>
-      </div>
-      <div class="col-2">
-      </div>
-      <div class="col-2">
-        <h4>INTRO</h4>
-      </div>
-      <div class="col-2">
-        <h4>LYRICS</h4>
-      </div>
-      <div class="col-2">
-        <h4>FEEDB.</h4>
-      </div>
-    </div>
 
-    <div class="col-4">
-      <img class="topic_img_left" src="https://upload.cc/i1/2020/08/01/h9FXne.jpg">
-    </div>
+	<div class="container-fluid">
+		<div class="row">
+			<div class="col-md-12 navbar">
+				<a href="https://yeeeeecheng.github.io/carousel.html" class="logo navbar-brand text-white offset-md-2">Ürànus</a>
+				<ul class="nav">
+					<li class="nav-item active"><a href="#" class="nav-link">NEWS</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">INTRO</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">LYRICS</a></li>
+					<li class="nav-item"><a href="#" class="nav-link">COMMENT</a></li>
+				</ul>
+			</div>
 
-    <hr>
+			<!-- slider banner	 -->
 
-    <div class="col-4">
-      <img class="topic_img_right" src="https://upload.cc/i1/2020/07/18/YB0Ohg.jpg">
-    </div>
-  </div>
+			<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+			  <ol class="carousel-indicators">
+			    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+			    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+			    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+			  </ol>
+			  <div class="carousel-inner">
+			    <div class="carousel-item active">
+			    	<div class="info">
+			      		<h1>Carly Rae Jepsen - Your Type</h1>
+			      		<p>Aug. 30th 2020</p>
+			      	</div>
+			    </div>
+			    <div class="carousel-item">
+			    	<div class="info">
+			      		<h1>Lady Gaga - Aura</h1>
+			      		<p>Aug. 31st 2020</p>
+			      	</div>
+			    </div>
+			    <div class="carousel-item">
+			    	<div class="info">
+			      		<h1>Taylor Swift - Daylight</h1>
+			      		<p>Sep. 1st 2020</p>
+			      	</div>
+			    </div>
+			  </div>
+			  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+			    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+			    <span class="sr-only">Previous</span>
+			  </a>
+			  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+			    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+			    <span class="sr-only">Next</span>
+			  </a>
+			</div>
+		</div>
+	</div>
 
-  <!--  Bootstrap-related JavaScript-->
-  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
 
+
+	<!-- scripts -->
+	<!-- bootstrap javascript cdn -->
+	<script type="text/javascript" src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </body>
-
 </html>
