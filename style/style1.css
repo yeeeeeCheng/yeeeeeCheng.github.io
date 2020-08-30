@@ -64,19 +64,19 @@
 	position: relative;
 	height: 100%;
 	width:100%;
-	background: url('https://upload.cc/i1/2020/08/01/h9FXne.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background: url('https://upload.cc/i1/2020/08/01/h9FXne.jpg');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
 }
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(2){
-	background: url('https://upload.cc/i1/2020/07/20/VQtzYe.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background: url('https://upload.cc/i1/2020/07/20/VQtzYe.jpg');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
 }
 #carouselExampleIndicators .carousel-inner .carousel-item:nth-child(3){
-	background: url('https://upload.cc/i1/2020/07/18/YB0Ohg.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940');
+	background: url('https://upload.cc/i1/2020/07/18/YB0Ohg.jpg');
 	background-size: 100% 100%;
 	background-position: center;
 	background-attachment: fixed;
