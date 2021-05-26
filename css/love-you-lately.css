@@ -3,6 +3,8 @@ body {
   font-family: 'libre_baskervilleregular', Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
+  text-align: center;
+  line-height: normal;
 }
 
 img {
