@@ -1,3 +1,29 @@
-div {
-  box-shadow: 10px 10px 5px grey;
+body {
+  background-color: #fffefc;
+  font-family: 'libre_baskervilleregular', Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
+img {
+  width: 400px;
+  display: block;
+  box-shadow: 0;
+  transition: box-shadow 0.5s;
+}
+
+img:hover {
+  box-shadow: 3px 3px 15px grey;
+  ;
+}
+
+.album {
+  width: 50%;
+  float: left;
+  position: fixed;
+}
+
+.lyrics {
+  width: 50%;
+  float: right;
 }
