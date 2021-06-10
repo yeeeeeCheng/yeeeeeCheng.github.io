@@ -34,3 +34,19 @@
     font-style: normal;
 
 }
+
+body {
+  background-color: #fffefc;
+  font-family: 'libre_baskervilleregular', Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  line-height: normal;
+}
+
+img {
+  width: 500px;
+}
+
+.lyrics {
+  text-align: center;
+}
