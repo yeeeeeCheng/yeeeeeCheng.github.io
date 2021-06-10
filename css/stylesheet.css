@@ -114,11 +114,7 @@ img {
 }
 
 .navbar {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  padding-left: 80px;
-  padding-right: 80px;
-
+  padding: 45px;
 }
 
 .nav-item {
