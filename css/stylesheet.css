@@ -114,6 +114,17 @@ img {
 }
 
 .navbar {
-  font-family: 'Heebo-ExtraBold', Arial, sans-serif;
+  background-color: white;
+  padding: 15px;
+  margin: 20px;
+}
+
+.nav-item {
+  font-family: 'Heebo-Thin', Arial, sans-serif;
+  font-size: 40px;
+}
+
+.navbar-brand {
+  font-family: 'Heebo-Black', Arial, sans-serif;
   font-size: 50px;
 }
