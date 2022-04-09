@@ -8,10 +8,6 @@
 	font-family: 'Poppins',sans-serif;
 }
 
-.row{
-	data-masonry='{"percentPosition": true }';
-}
-
 .navbar{
 	position: fixed;
 	top: 0;
