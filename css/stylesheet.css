@@ -144,3 +144,8 @@ img {
 .intro_text {
   color: #c2b188;
 }
+
+.entrance_page_brand_logo {
+  font-family: 'Heebo-Black', Arial, sans-serif;
+  font-size: 80px;
+}
