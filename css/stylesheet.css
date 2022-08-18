@@ -110,7 +110,7 @@ img {
 }
 */
 
-img{
+img.member-img-top{
     width: 65%;
     border-radius: 50%;
     margin: 0 auto;
