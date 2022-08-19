@@ -17,13 +17,13 @@
  */
 
 body {
-  background: url(https://yeeeeecheng.github.io/img/chung hsing lake.JPEG) no-repeat center center fixed; 
+  background: url(https://yeeeeecheng.github.io/img/chung hsing lake.JPEG) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);
+  /*text-shadow: 0 .05rem .1rem rgba(0, 0, 0, .5);
+  box-shadow: inset 0 0 5rem rgba(0, 0, 0, .5);*/
 }
 
 /*調整整個內容部分的寬度*/
