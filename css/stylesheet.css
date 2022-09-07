@@ -104,11 +104,11 @@ body {
   font-style: normal;
   line-height: normal;
 }
-/*
+
 img {
   width: 500px;
 }
-*/
+
 /*
 img {
   width: 65%;
@@ -116,7 +116,7 @@ img {
   margin: 0 auto;
   box-shadow: 0 0 10px rgba(0,0,0,.2);
 }
-
+*/
 .album_pic {
   border-radius: 4px;
   background: #fff;
@@ -157,14 +157,14 @@ img {
   font-family: 'Heebo-Black', Arial, sans-serif;
   font-size: 80px;
 }
-*/
-
+/*
 .card {
   margin-top: 2em;
   padding: 1.5em 0.5em 0.5em;
   text-align: center;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
 }
+*/
 
 .card img {
   width: 65%;
