@@ -97,9 +97,18 @@
 
 }
 
+@font-face {
+    font-family: 'notoseriftc-regular';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-regular-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 body {
   background-color: #fffefc;
-  font-family: 'libre_baskervilleregular', Arial, sans-serif;
+  font-family: 'notoseriftc-regular, libre_baskervilleregular', Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: normal;
