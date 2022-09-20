@@ -1,4 +1,68 @@
 @font-face {
+    font-family: 'notoseriftc-regular';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-regular-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'notoseriftc-black';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-black-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'notoseriftc-bold';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-bold-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'notoseriftc-extralight';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-extralight-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-extralight-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'notoseriftc-light';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-light-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'notoseriftc-medium';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-medium-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'notoseriftc-semibold';
+    src: url('https://yeeeeecheng.github.io/font/notoseriftc-semibold-webfont.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/notoseriftc-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
     font-family: 'Heebo-Black';
     src: url('https://yeeeeecheng.github.io/font/Heebo-Black.woff2') format('woff2'),
          url('https://yeeeeecheng.github.io/font/Heebo-Black.woff') format('woff');
@@ -92,69 +156,6 @@
     font-family: 'libre_baskervilleregular';
     src: url('https://yeeeeecheng.github.io/font/librebaskerville-regular-webfont.woff2') format('woff2'),
          url('https://yeeeeecheng.github.io/font/librebaskerville-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-regular';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-regular-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-regular-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-black';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-black-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-black-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-bold';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-bold-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-extralight';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-extralight-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-extralight-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-light';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-light-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-light-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-medium';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-medium-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-medium-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-@font-face {
-    font-family: 'notoseriftc-semibold';
-    src: url('https://yeeeeecheng.github.io/font/notoseriftc-semibold-webfont.woff2') format('woff2'),
-         url('https://yeeeeecheng.github.io/font/notoseriftc-semibold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
