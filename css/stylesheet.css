@@ -44,6 +44,15 @@
 }
 
 @font-face {
+    font-family: 'Heebo-Thin';
+    src: url('https://yeeeeecheng.github.io/font/Heebo-Thin.woff2') format('woff2'),
+         url('https://yeeeeecheng.github.io/font/Heebo-Thin.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
     font-family: 'Heebo-Medium';
     src: url('https://yeeeeecheng.github.io/font/Heebo-Medium.woff2') format('woff2'),
          url('https://yeeeeecheng.github.io/font/Heebo-Medium.woff') format('woff');
@@ -181,7 +190,7 @@
 
 body {
   background-color: #fffefc;
-  font-family: 'libre_baskervilleregular', Arial, sans-serif;
+  font-family: 'Heebo-ExtraLight', Arial, sans-serif;
   font-weight: normal;
   font-style: normal;
   line-height: normal;
@@ -216,7 +225,7 @@ body {
 
 .map-responsive{
   overflow:hidden;
-  padding-bottom:80%;
+  padding-bottom:50%;
   position:relative;
   height:0;
 }
@@ -227,4 +236,15 @@ body {
   height:100%;
   width:100%;
   position:absolute;
+}
+
+.bi {
+  font-size: 3rem;
+  text-align: center;
+  padding: 0.001rem;
+  color: #c2b188;
+}
+
+.contact-info {
+  font-family: 'Heebo-Light';
 }
