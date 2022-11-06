@@ -187,36 +187,6 @@ body {
   line-height: normal;
 }
 
-/*
-div.card {
-  transition: box-shadow .3s;
-  width: 300px;
-  height: 500px;
-  margin: 50px;
-  border-radius:10px;
-  border: 1px solid #ccc;
-  background: #fff;
-  float: left;
-}
-
-div.card:hover {
-  box-shadow: 0 0 11px rgba(33,33,33,.2);
-}
-*/
-/*
-img {
-  width: 500px;
-}
-
-
-img {
-  width: 65%;
-  border-radius: 50%;
-  margin: 0 auto;
-  box-shadow: 0 0 10px rgba(0,0,0,.2);
-}
-*/
-
 .lyrics {
   text-align: center;
 }
@@ -244,39 +214,17 @@ img {
   font-size: 80px;
 }
 
-/*
-.card {
-  margin-top: 2em;
-  padding: 1.5em 0.5em 0.5em;
-  text-align: center;
-  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+.map-responsive {
+    overflow:hidden;
+    padding-bottom:40%;
+    position:relative;
+    height:0;
 }
 
-
-.card img {
-  width: 65%;
-  border-radius: 50%;
-  margin: 0 auto;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+.map-responsive iframe {
+    left:0;
+    top:0;
+    height:100%;
+    width:100%;
+    position:absolute;
 }
-
-.card .card-title {
-  font-weight: 700;
-  font-size: 1.5em;
-  font-family: 'libre_baskervilleregular', Arial, sans-serif;
-  color: #c2b188;
-}
-
-.card .btn {
-  border-radius: 2em;
-  background-color: teal;
-  color: #ffffff;
-  padding: 0.5em 1.5em;
-}
-
-.card .btn:hover {
-  background-color: rgba(0, 128, 128, 0.7);
-  color: #ffffff;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-}
-*/
