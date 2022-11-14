@@ -224,10 +224,10 @@ body {
 }
 
 .map-responsive{
-  overflow:hidden;
-  padding-bottom:50%;
-  position:relative;
-  height:0;
+  overflow: hidden;
+  padding-bottom: 60%;
+  position: relative;
+  height: 0;
 }
 
 .map-responsive iframe{
