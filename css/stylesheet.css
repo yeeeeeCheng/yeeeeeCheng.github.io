@@ -248,3 +248,9 @@ body {
 .contact-info {
   font-family: 'Heebo-Light';
 }
+
+.homep:link {
+  color: #b8b8b8;
+  background-color: transparent;
+  text-decoration: none;
+}
