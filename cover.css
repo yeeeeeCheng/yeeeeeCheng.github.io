@@ -60,6 +60,7 @@ body {
 
 .homep:link {
   color: #b8b8b8;
+  opacity: 60%;
   background-color: transparent;
   text-decoration: none;
 }
