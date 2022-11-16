@@ -218,6 +218,10 @@ body {
   color: #c2b188;
 }
 
+.card-img-top {
+  margin: 0.1 rem;
+}
+
 .entrance_page_brand_logo {
   font-family: 'Heebo-Black', Arial, sans-serif;
   font-size: 80px;
