@@ -223,6 +223,10 @@ body {
   font-size: 80px;
 }
 
+.title-in-contact {
+  text-align: center;
+}
+
 .map-responsive{
   overflow: hidden;
   padding-bottom: 60%;
