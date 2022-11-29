@@ -232,7 +232,7 @@ body {
   padding-bottom: 60%;
   position: relative;
   height: 0;
-  min-width: 23rem;
+  min-width: 21rem;
 }
 
 .map-responsive iframe{
