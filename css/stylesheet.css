@@ -263,6 +263,11 @@ body {
 .text-box {
   font-family: 'Heebo-Medium', Arial, sans-serif;
 }
+
+.h2 {
+  font-family: 'Heebp-Medium';
+  color: #cac5b6;
+}
 /*
 a[target="_blank"]:link, a[target="_blank"]:visited {
   background-color: #c2b188;
