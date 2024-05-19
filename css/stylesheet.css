@@ -269,12 +269,23 @@ h2 {
   font-weight: bold;
   color: #cac5b6;
 }
-
+ /*fixed height of all the pics in the carousel*/
 #carouselPic .carousel-item img {
   object-fit: cover;
   object-position: center;
   height: 50vh;
   overflow: hidden;
+}
+
+/*background gradient for the captions of the carousel*/
+#carouselPic .carousel-item:before {
+  content: "";
+  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.5));
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
 }
 
 /*
