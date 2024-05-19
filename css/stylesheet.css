@@ -264,8 +264,9 @@ body {
   font-family: 'Heebo-Medium', Arial, sans-serif;
 }
 
-.h2 {
+h2 {
   font-family: 'Heebp-Medium';
+  font-weight: bold;
   color: #cac5b6;
 }
 /*
