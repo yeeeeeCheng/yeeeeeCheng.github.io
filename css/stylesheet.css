@@ -269,6 +269,14 @@ h2 {
   font-weight: bold;
   color: #cac5b6;
 }
+
+#carouselPic .carousel-item img {
+  object-fit: cover;
+  object-position: center;
+  height: 50vh;
+  overflow: hidden;
+}
+
 /*
 a[target="_blank"]:link, a[target="_blank"]:visited {
   background-color: #c2b188;
