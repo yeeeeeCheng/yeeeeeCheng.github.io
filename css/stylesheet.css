@@ -264,9 +264,10 @@ body {
   font-family: 'Heebo-Medium', Arial, sans-serif;
 }
 
-h2 {
-  color: #cac5b6;
+.title-for-normal-article {
+  color: #9c988e;
 }
+
  /*fixed height of all the pics in the carousel*/
 #carouselPic .carousel-item img {
   object-fit: cover;
