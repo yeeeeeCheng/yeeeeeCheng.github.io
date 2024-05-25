@@ -1,6 +1,6 @@
 #round-end-button {
     text-align: center;
-    font-size: 2em;
+    font-size: 1.5em;
     background-color: #ffffff;
     color: #000000;
     padding-top: 10px;
@@ -8,4 +8,6 @@
     padding-left: 10px;
     padding-right: 10px;
     box-shadow: 5px 5px;
+    border: 1px solid #dedede;
+    border-radius: 4px;
 }
