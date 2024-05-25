@@ -1,7 +1,11 @@
 #round-end-button {
     text-align: center;
-    font-style: bold;
-    background-color: black;
-    color:cornsilk;
-    padding: 50px;
+    font-size: 2em;
+    background-color: #ffffff;
+    color: #000000;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    box-shadow: 10px 10px;
 }
